@@ -1,0 +1,8 @@
+b534a9199017f8d20b3906d432326edb *DESCRIPTION
+c841b06ef0fea06be14f700589beacf6 *NAMESPACE
+90f37e1a885c65791e699d166ccc1b0f *R/mirtsvd.R
+4fcb3e918b3e3d19800be058f807168e *R/screeplot_svd.R
+1b392b8584cc44bcf981a448175b2f4f *README.md
+76832794e2818e45f873baf9f005baa1 *build/partial.rdb
+34d5f9ac60f9daa86a3d7c2d12843dbb *man/mirtsvd.Rd
+9030930eee02a9119f0e99a7caecc595 *man/screeplot_svd.Rd
