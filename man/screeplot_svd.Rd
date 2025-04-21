@@ -10,7 +10,7 @@ screeplot_svd(data, link = "logit", epsilon = 1e-04, K_max = 10)
 \item{data}{the data matrix. Entries are either binary or categorical.
 Missing entries should be \code{NA}.}
 
-\item{link}{the link fucntion. Possible choices are "logit" and "probit".}
+\item{link}{the link function. Possible choices are "logit" and "probit".}
 
 \item{epsilon}{the truncation parameter. Default value is 1e-4.}
 

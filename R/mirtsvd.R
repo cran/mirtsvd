@@ -5,10 +5,10 @@
 #' @param data the data matrix. Entries are either binary or categorical.
 #' Missing entries should be \code{NA}.
 #' @param K the number of factors.
-#' @param link the link fucntion. Possible choices are "logit" and "probit".
+#' @param link the link function. Possible choices are "logit" and "probit".
 #' @param epsilon the truncation parameter. Default value is 1e-4.
 #' @param rotation_fn rotation applied to the estimated loading matrix.
-#' See \code{\link{rotations}}.
+#' See \code{\link[GPArotation]{rotations}}.
 #' If \code{NULL}, no rotation would be applied.
 #' @param ... optional arguments passed to rotation_fn.
 #'
